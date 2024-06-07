@@ -4,6 +4,7 @@ Update all my Github Forks via a Python Script
 # Manual
 
 ## Configure the config.toml file
+First copy default to the config.tool file what	can be loaded by the script
 ```console
 cp config_default.toml config.toml
 ```
